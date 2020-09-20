@@ -1,0 +1,11 @@
+.clickable {
+    pointer-events: auto !important;
+}
+
+.Card {
+    margin-bottom: 70px;
+}
+
+.loginForm {
+    margin-top: 50px;
+}
